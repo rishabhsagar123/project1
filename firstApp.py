@@ -1,6 +1,6 @@
 from tkinter import *
 window=Tk()
-window.title("First Application")
+window.title("First Application of Tkinter")
 def click():
     entered_text=textentry.get()
     output.delete(0.0,END)
