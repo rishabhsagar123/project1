@@ -1,0 +1,214 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta name="google-site-verification" content="LTZcpD9Z_psQD-6wdkvIMWdFJPFqTIBdawNCobXKThQ" />
+      
+<title>The GamEvolution</title>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="description" content="India's Best Platform Of Learning and Playing any Development Course Free...">
+<meta name="keywords" content="The GamEvolution,gamevolution,rishabh sagar" />
+<meta name="author" content="gamevolution.in">
+<meta name="copyright" content="Rishabh Sagar">
+<link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Poppins">
+<style>
+body,h1,h2,h3,h4,h5 {font-family: "Poppins", sans-serif}
+body {font-size:16px;}
+.w3-half img{margin-bottom:-6px;margin-top:16px;opacity:0.8;cursor:pointer}
+.w3-half img:hover{opacity:1}
+</style>
+<script data-ad-client="ca-pub-7591742308957224" async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+</head>
+<body>
+
+<!-- Sidebar/menu -->
+<nav class="w3-sidebar w3-blue w3-collapse w3-top w3-large w3-padding" style="z-index:3;width:300px;font-weight:bold;" id="mySidebar"><br>
+  <a href="javascript:void(0)" onclick="w3_close()" class="w3-button w3-hide-large w3-display-topleft" style="width:100%;font-size:22px">Close Menu</a>
+  <div class="w3-container">
+    <h3 class="w3-padding-64"><b>The<br>GamEvolution</b></h3>
+  </div>
+  <div class="w3-bar-block">
+    <a href="#" onclick="w3_close()" class="w3-bar-item w3-button w3-hover-white">Home</a> 
+    <a href="http://gamevolution.in/apps/" onclick="w3_close()" class="w3-bar-item w3-button w3-hover-white">Learn App Development</a> 
+    <a href="http://gamevolution.in/gamester" onclick="w3_close()" class="w3-bar-item w3-button w3-hover-white">The Gamester</a> 
+    <a href="http://gamevolution.in/ai" onclick="w3_close()" class="w3-bar-item w3-button w3-hover-white">Our AI</a>
+    <a href="http://gamevolution.in/networkbox" onclick="w3_close()" class="w3-bar-item w3-button w3-hover-white">Chatting Network</a>
+    <a href="http://gamevolution.in/PythonProjects" onclick="w3_close()" class="w3-bar-item w3-button w3-hover-white">Learn Python Development</a>
+        <a href="http://gamevolution.in/learnai" onclick="w3_close()" class="w3-bar-item w3-button w3-hover-white">Learn AI</a>
+        <a href="http://gamevolution.in/learnai/hack.html" onclick="w3_close()" class="w3-bar-item w3-button w3-hover-white">Hacks And Viruses</a>
+        <a href="http://gamevolution.in/learnai/apps.html" onclick="w3_close()" class="w3-bar-item w3-button w3-hover-white">Software And Designs</a>
+    <a href="http://gamevolution.in/searchx" onclick="w3_close()" class="w3-bar-item w3-button w3-hover-white">SearchX</a>
+    <a href="http://gamevolution.in/xgames" onclick="w3_close()" class="w3-bar-item w3-button w3-hover-white">Xgames</a>
+    <a href="http://gamevolution.in/freelancing" onclick="w3_close()" class="w3-bar-item w3-button w3-hover-white">Our Freelancing Services</a>
+    <a href="#designers" onclick="w3_close()" class="w3-bar-item w3-button w3-hover-white">Why GamEvolution</a>
+    <a href="#services" onclick="w3_close()" class="w3-bar-item w3-button w3-hover-white">Learn HTML5 Game Development</a>
+    <a href="#packages" onclick="w3_close()" class="w3-bar-item w3-button w3-hover-white">Services And Opportunity</a>
+    <a href="#contact" onclick="w3_close()" class="w3-bar-item w3-button w3-hover-white">Contact</a>
+  </div>
+</nav>
+
+<!-- Top menu on small screens -->
+<header class="w3-container w3-top w3-hide-large w3-red w3-xlarge w3-padding">
+  <a href="javascript:void(0)" class="w3-button w3-yellow w3-margin-right" onclick="w3_open()">☰</a>
+  <span>The GamEvolution</span>
+</header>
+
+<!-- Overlay effect when opening sidebar on small screens -->
+<div class="w3-overlay w3-hide-large" onclick="w3_close()" style="cursor:pointer" title="close side menu" id="myOverlay"></div>
+
+<!-- !PAGE CONTENT! -->
+<div class="w3-main" style="margin-left:340px;margin-right:40px">
+
+  <!-- Header -->
+  <div class="w3-container" style="margin-top:80px" id="showcase">
+    <h1 class="w3-jumbo"><b>The GamEvolution</b></h1>
+    <h1 class="w3-xxxlarge w3-text-red"><b>A Platform of Learning and Playing.</b></h1>
+    <hr style="width:50px;border:5px solid blue" class="w3-round">
+  </div>
+  
+  <!-- Photo grid (modal) -->
+  <div class="w3-row-padding">
+    <div class="w3-half">
+      <img src="game2.gif" style="width:100%" onclick="onClick(this)" alt="">
+      <img src="game1.gif" style="width:100%" onclick="onClick(this)" alt="">
+      <img src="game4.gif" style="width:100%" onclick="onClick(this)" alt="">
+    </div>
+  </div>
+
+  <!-- Modal for full size images on click-->
+  <div id="modal01" class="w3-modal w3-black" style="padding-top:0" onclick="this.style.display='none'">
+    <span class="w3-button w3-black w3-xxlarge w3-display-topright">×</span>
+    <div class="w3-modal-content w3-animate-zoom w3-center w3-transparent w3-padding-64">
+      <img id="img01" class="w3-image">
+      <p id="caption"></p>
+    </div>
+  </div>
+
+  <!-- Services -->
+  <div class="w3-container" id="services" style="margin-top:75px">
+    <h1 class="w3-xxxlarge w3-text-red"><b>Learn and Play HTML5 Game Development</b></h1>
+    <hr style="width:50px;border:5px solid orange" class="w3-round">
+    <p><a href="shooting game.html" style="color:blue">Shooting Game Basic</a></p>
+    <p><a href="Igame.html" style="color:blue">Shooting Game Advance</a></p>
+    <p><a href="Mario.html"  style="color:blue">Mario Game</a></p>
+    <p><a href="shoot the enemy.html" style="color:blue">Shoot the Enemy</a></p>
+    <p><a href="pong.html" style="color:blue">Pong Game</a></p>
+    <p><a href="Shadow Master.html" style="color:blue">Shadow Master</a></p>
+    <p><a href="pokemon.html" style="color:blue">Pokemon Game</a></p>
+    <p><a href="Flappy.html" style="color:blue">Flappy Bird</a></p>
+    <p><a href="tictactoe.html" style="color:blue">Tic-Tac-Toe</a></p>
+    <p><a href="dotching game.html" style="color:blue">Dodge Mario</a></p>
+    <p><a href="Rpg game.html" style="color:blue">Fight Game</a></p>
+    <p><a href="TETRIS.html" style="color:blue">Tetris Game</a></p>
+  </div>
+  
+  <!-- Designers -->
+  <div class="w3-container" id="designers" style="margin-top:75px">
+    <h1 class="w3-xxxlarge w3-text-red"><b>Why GamEvolution!!</b></h1>
+    <hr style="width:50px;border:5px solid red" class="w3-round">
+    <p>Here are the Some Points..</p>
+    <p>1)The GamEvolution is the Platform of learning and Playing any development course Free...</p>
+    <p>2)Must Check in a Navigation Bar All the Services that we Provide For Development and Playing..</p>
+    <p>3)Learn Web Development,App Development,Game Development and Software Development in a Easiest way..</p>
+    <p>4)We Provide You Full Source Code of Our Projects Direct Copy paste and Learn..</p>
+    <p>5)You can Use Our Source Code in any website you make or host it there is no any type of copyright issue..</p>
+    <p><b>Here is Me:</b></p>
+  </div>
+
+  <!-- The Team -->
+  <div class="w3-row-padding w3-grayscale">
+    <div class="w3-col m4 w3-margin-bottom">
+      <div class="w3-light-grey">
+        <div class="w3-container">
+          <h3>Rishabh Sagar</h3>
+          <p class="w3-opacity">Founder</p>
+          <p>Rishabh Sagar is the Developer and Founder of The GamEvolution,TreatedCup and Just4Project Where He Describe and Provide You the Services That he Make You can take advantage this to make any  development website Currently he is working on programming languages.<a href="https://rishabh99in.wordpress.com" style="color:red">More About</a></p>
+        </div>
+      </div>
+    </div>
+  </div>
+  /*Ad Code Starts Here*/
+  <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- ads -->
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-7591742308957224"
+     data-ad-slot="3803143941"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+<script>
+(adsbygoogle =window.adsbygoogle || []).push({});
+</script>
+/*Ads Code End Here*/
+
+  <!-- Packages / Pricing Tables -->
+  <div class="w3-container" id="packages" style="margin-top:75px">
+    <h1 class="w3-xxxlarge w3-text-red"><b>Services and Opportunity</b></h1>
+    <hr style="width:50px;border:5px solid red" class="w3-round">
+    <p>1)Hey The GamEvolution is all for Game Developers If You are Game Developer We Can Host Your Game in Our website and Can Advertise Your Profile to anyone if You are a Unity Game Developer We Can help you to host your game by contacting us...Just Contact Us And Publish Your Game Online...Check The Website X games in a navigation bar where it shows all the unity games by diffrent Developers.... </p>
+  <p>2)We Also Provide Freelancing Services here We Help You To Make Websites,HTML5 games and other computer projects less than the Market Price.The Cost is so less that you can make your project by us...if You want to Make Project by someone else in a discount visit our Startup website &nbsp;<a href="http://www.just4project.in">Just4Project</a>.</p>
+  </div>
+ 
+  <?php
+  if(isset($_POST['submit'])){
+      $a=$_POST['Name'];
+      $b=$_POST['Email'];
+      $c=$_POST['Message'];
+      mail("rishabh123sagar@gmail.com",$a,$c,$b);
+  }
+  
+  
+  
+  ?>
+  <!-- Contact -->
+  <div class="w3-container" id="contact" style="margin-top:75px">
+    <h1 class="w3-xxxlarge w3-text-red"><b>Contact.</b></h1>
+    <hr style="width:50px;border:5px solid red" class="w3-round">
+    <p>Any Problem/Questions/Regarding Services Mail us!! We  Available for You 24x7</p>
+    <form method="post">
+      <div class="w3-section">
+        <label>Name</label>
+        <input class="w3-input w3-border" type="text" name="Name" required>
+      </div>
+      <div class="w3-section">
+        <label>Email</label>
+        <input class="w3-input w3-border" type="text" name="Email" required>
+      </div>
+      <div class="w3-section">
+        <label>Message</label>
+        <input class="w3-input w3-border" type="text" name="Message" required>
+      </div>
+      <input type="submit" class="w3-button w3-block w3-padding-large w3-red w3-margin-bottom" name="submit">
+    </form>  
+  </div>
+
+<!-- End page content -->
+</div>
+
+<!-- W3.CSS Container -->
+<div class="w3-light-grey w3-container w3-padding-32" style="margin-top:75px;padding-right:58px"><p class="w3-right">&copy;Copyright By <a href="https://rishabh99in.wordpress.com" title="Rishabh Sagar" target="_blank" class="w3-hover-opacity">Rishabh Sagar Productions</a></p></div>
+
+<script>
+// Script to open and close sidebar
+function w3_open() {
+  document.getElementById("mySidebar").style.display = "block";
+  document.getElementById("myOverlay").style.display = "block";
+}
+ 
+function w3_close() {
+  document.getElementById("mySidebar").style.display = "none";
+  document.getElementById("myOverlay").style.display = "none";
+}
+
+// Modal Image Gallery
+function onClick(element) {
+  document.getElementById("img01").src = element.src;
+  document.getElementById("modal01").style.display = "block";
+  var captionText = document.getElementById("caption");
+  captionText.innerHTML = element.alt;
+}
+</script>
+
+</body>
+</html>
